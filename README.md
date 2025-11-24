@@ -26,11 +26,7 @@
 - Ensuring fast loading, smooth functionality, and SEO-friendly websites.
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahiloncode&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="sahiloncode's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=sahiloncode&theme=github_dark&hide_border=true&cache_seconds=86400" alt="sahiloncode's GitHub Streak" width="49%" />
-</p>
+## 📊 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahiloncode&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sahil rajput's GitHub Trophies" />
 </p>
