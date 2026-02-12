@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Sahil rajput</h1>
-<h3 align="center">Web Designer & Developer</h3>
+<h3 align="center">Full-Stack WordPress & E-Commerce Developer
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sahiloncode">
@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I’m a Web Designer & Frontend Developer skilled in WordPress 🖥️, custom website design 🎨, and hosting setup 🚀. I create modern, responsive, and user-friendly websites using HTML, CSS, Tailwind CSS, and JavaScript ✨. My focus is on clean design, smooth performance, and delivering a premium experience for every project.
+- I’m a Full-Stack WordPress & E-Commerce Developer 🖥️, custom website design 🎨, and hosting setup 🚀. I create modern, responsive, and user-friendly websites using HTML, CSS, Tailwind CSS, and JavaScript ✨. My focus is on clean design, smooth performance, and delivering a premium experience for every project.
 
 
 ## 🧠 My Focus Areas
